@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG001 - user login without input anything</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4ca0572-e673-40e3-abff-d4be68a1bd92</testCaseGuid>
+</TestCaseEntity>
